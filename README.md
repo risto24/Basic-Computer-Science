@@ -1,7 +1,5 @@
 # Basic Computer Science
 <br>
-Risto Nishimura (2019) "Basic Computer Science"
-<br>
 
 ## 5大機能について
 
