@@ -2,7 +2,13 @@
 # Basic Computer Science
 <br>
 
-## 5大機能について
+* [5大機能について](#section1)
+* [演算機能](#section2)
+* [記憶機能](#section3)
+
+<br>
+
+## <a id="section1" href="#section1">5大機能について</a>
 
 コンピューターはハードウェアと呼ばれるパーツによって構成されている
 
@@ -18,7 +24,7 @@
 
 <br>
 
-## 演算機能
+## <a id="section2" href="#section2">演算機能</a>
 
 5大機能を動かしているのがパソコンの脳と呼ばれるCPUである
 
@@ -32,7 +38,7 @@ CPU（セントラル・プロセッシング・ユニット）と呼ばれ、�
 
 <br>
 
-## 記憶機能
+## <a id="section3" href="#section3">記憶機能</a>
 
 SRAM・DRAMと呼ばれる記憶機能を担っているパーツのことである
 
