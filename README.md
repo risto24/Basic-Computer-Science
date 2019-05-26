@@ -6,11 +6,8 @@
 * [演算機能](#section2)
 * [記憶機能](#section3)
 
-<a id="section1" href="#section1"></a>
 <br>
-<br>
-
-##5大機能について
+<a id="section1" href="#section1">5大機能について</a>
 
 コンピューターはハードウェアと呼ばれるパーツによって構成されている
 
