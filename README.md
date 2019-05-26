@@ -1,3 +1,4 @@
+![](./pics/laptop.jpg)
 # Basic Computer Science
 <br>
 
