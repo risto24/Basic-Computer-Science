@@ -1,9 +1,6 @@
 # Basic Computer Science
 <br>
-<div style="text-align: right;">
-"Basic Computer Science"(2019)<br>
-Risto Nishimura<br>
-</div>
+Risto Nishimura (2019) "Basic Computer Science"
 <br>
 
 ## 5大機能について
