@@ -144,7 +144,7 @@ CPUは、外部にメモリを持つだけではなく、**内部にキャッシ
 
 ## <a id="section3" href="#section3">記憶機能</a>
 
-SRAM・DRAMやHDD・SSDなどと呼ばれる記憶機能を担っているパーツのことである
+SRAM・DRAMやHDD・SSDなどの記憶機能を担っているパーツのことである
 
 <br>
 
